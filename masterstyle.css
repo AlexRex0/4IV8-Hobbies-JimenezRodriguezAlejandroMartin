@@ -23,3 +23,15 @@ header{
 main{
     font-family: var(--fuenteprincipal);
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    margin: 30px;
+    font-size: 35px;
+    font-family: var(--fuenteprincipal);
+    text-decoration: none;
+}
